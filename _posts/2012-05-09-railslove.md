@@ -4,7 +4,7 @@ author: "Bruno Antunes"
 picture: "/images/avatars/bruno.png"
 layout: post
 ---
-![Railslove logo](http://www.euruko2012.org/images/sponsors/railslove.png)
+![Railslove logo](https://2012.euruko.org/images/sponsors/railslove.png)
 
 Lovers united: Railslove sponsoring EuRuKo!
 

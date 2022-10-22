@@ -4,7 +4,7 @@ author: "Bruno Antunes"
 picture: "/images/avatars/bruno.png"
 layout: post
 ---
-![Clubjudge logo](http://www.euruko2012.org/images/sponsors/clubjudge.png)
+![Clubjudge logo](https://2012.euruko.org/images/sponsors/clubjudge.png)
 <br/>
 When a company like [ClubJudge](http://www.clubjudge.com), the world's official hallmark for quality of nightlife venues is throwing a party, you just know it's going to be great.
 

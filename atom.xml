@@ -3,12 +3,12 @@ layout: nil
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- 
+
   <title>EuRuKo 2012</title>
-  <link href="http://www.euruko2012.org//atom.xml" rel="self"/>
-  <link href="http://www.euruko2012.org/"/>
+  <link href="https://2012.euruko.org//atom.xml" rel="self"/>
+  <link href="https://2012.euruko.org/"/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
-  <id>http://www.euruko2012.org/</id>
+  <id>https://2012.euruko.org/</id>
   <author>
     <name>EuRuKo 2012 Organizers</name>
   </author>
@@ -16,11 +16,11 @@ layout: nil
   {% for post in site.posts %}
   <entry>
    <title>{{ post.title }}</title>
-   <link href="http://www.euruko2012.org{{ post.url }}"/>
+   <link href="https://2012.euruko.org{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>http://www.euruko2012.org{{ post.id }}</id>
+   <id>https://2012.euruko.org{{ post.id }}</id>
    <content type="html">{{ post.content | xml_escape }}</content>
   </entry>
   {% endfor %}
- 
+
 </feed>

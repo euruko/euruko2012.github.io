@@ -4,7 +4,7 @@ author: "Bruno Antunes"
 picture: "/images/avatars/bruno.png"
 layout: post
 ---
-![Avarteq logo](http://www.euruko2012.org/images/sponsors/avarteq.png)
+![Avarteq logo](https://2012.euruko.org/images/sponsors/avarteq.png)
 <br/>
 Our remaining Gold sponsor is [EnterpriseRails](http://www.enterprise-rails.com/), a top-notch hosting provider for Rails apps. They can also help you out with all stages of planning and developing Rails projects.
 

@@ -4,7 +4,7 @@ author: "Bruno Antunes"
 picture: "/images/avatars/bruno.png"
 layout: post
 ---
-![Nedap logo](http://www.euruko2012.org/images/sponsors/nedap.png)
+![Nedap logo](https://2012.euruko.org/images/sponsors/nedap.png)
 <br/>
 Nedap is unlike most companies. Their focus is widespread (ranging from agriculture to security and healthcare) but the attitude is the same across the board: to create intelligent products, and to do it efficiently.
 
@@ -14,7 +14,7 @@ They will be sponsoring the all-important coffee available at the venue!
 
 Learn more about them on their [website](http://nedap.com), check out their [news](http://www.nedap.com/about-nedap/news/) or follow them on [Twitter](https://twitter.com/nedapnv).
 <br/>
-![Finalist logo](http://www.euruko2012.org/images/sponsors/finalist.png)
+![Finalist logo](https://2012.euruko.org/images/sponsors/finalist.png)
 <br/>
 Finalist provides enterprise-grade content management, data visualization and integration solutions for big players across all industries.
 

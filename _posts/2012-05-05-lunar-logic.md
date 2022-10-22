@@ -4,7 +4,7 @@ author: "Bruno Antunes"
 picture: "/images/avatars/bruno.png"
 layout: post
 ---
-![Lunar Logic's Logo](http://www.euruko2012.org/images/sponsors/lunarlogic.png)
+![Lunar Logic's Logo](https://2012.euruko.org/images/sponsors/lunarlogic.png)
 
 We're excited to welcome _Lunar Logic Polska_ as one of our Gold sponsors for this year's EuRuKo.
 
